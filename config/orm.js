@@ -34,4 +34,8 @@ function printQuestionMarks(num) {
 
   //End of the helper functions
 
+  var orm = {
+
+  };
+
   module.exports = orm;
