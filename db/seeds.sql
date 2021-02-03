@@ -3,3 +3,5 @@ VALUES
 ("Double Bacon Cheeseburger"), 
 ("Veggie Burger"), 
 ("Hawaiian Burger");
+
+SELECT * FROM burgers;
